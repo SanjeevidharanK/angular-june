@@ -1,0 +1,40 @@
+/* ol{
+  padding: 10px 20px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  text-align: center;
+  background-color: red;
+}
+.ang{
+  width: 100%;
+  background-color: green;
+
+}
+.container{
+  margin: auto;
+  text-align: center;
+  width: 60%;
+}
+.inner{
+  margin: auto;
+  width: 80%;
+  padding: 10px 20px;
+  display: flex;
+  background-color: purple;
+  color: red;
+  text-align: center;
+  justify-content: space-between;
+  
+}
+
+.wrapper{
+  margin: auto;
+  width: 80%;
+  padding: 10px 20px;
+  display: flex;
+  background-color: purple;
+  color: red;
+  text-align: center;
+  justify-content: space-between;
+} */
