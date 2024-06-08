@@ -1,0 +1,46 @@
+{
+  "post": [
+    {
+      "Name": "Kumaran",
+      "Salary": "600000",
+      "designation": "Angular",
+      "id": 1
+    },
+    {
+      "Name": "Rajesh",
+      "Salary": "40000",
+      "designation": "Linux",
+      "id": 2
+    },
+    {
+      "Name": "Kumar",
+      "Salary": "60000",
+      "designation": "Angular",
+      "id": 3
+    },
+    {
+      "Name": "Jabar bhai",
+      "Salary": "70000",
+      "designation": "Angular,Linux",
+      "id": 4
+    },
+    {
+      "Name": "Kumar",
+      "Salary": "60000",
+      "designation": "Angular",
+      "id": 5
+    },
+    {
+      "Name": "kopal",
+      "Salary": "600000",
+      "designation": "Linux",
+      "id": 6
+    },
+    {
+      "Name": "Jabar bhai",
+      "Salary": "20000",
+      "designation": "Linux",
+      "id": 7
+    }
+  ]
+}
