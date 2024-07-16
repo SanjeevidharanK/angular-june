@@ -5,14 +5,19 @@ import { NgxPaginationModule } from 'ngx-pagination';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { TestlingComponent } from './testling/testling.component';
+import {RouterModule,Routes } from '@angular/router';
+import { RenderlingComponent } from './renderling/renderling.component';
+
+const routes:Routes=[{path:"test",component:AppComponent}]
 
 @NgModule({
   declarations: [
     AppComponent,
-    TestlingComponent
+    TestlingComponent,
+    RenderlingComponent
   ],
   imports: [
-    BrowserModule,FormsModule,ReactiveFormsModule,HttpClientModule,NgxPaginationModule
+    BrowserModule,FormsModule,ReactiveFormsModule,HttpClientModule,NgxPaginationModule,RouterModule.forRoot(routes)
   ],
   providers: [],
   bootstrap: [AppComponent]
