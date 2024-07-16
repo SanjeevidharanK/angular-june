@@ -16,6 +16,7 @@
             "outputPath": "dist/angular-june",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "baseHref": "/angular-june/",
             "polyfills": [
               "zone.js"
             ],

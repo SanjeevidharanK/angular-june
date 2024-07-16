@@ -9,6 +9,7 @@ import { ServicesService } from './service/services.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit,OnChanges{
+
   @ViewChild('name') elementref!:ElementRef
   @ViewChild('age') elementrefs!:ElementRef
   @ViewChild('class') elementref_s!:ElementRef
